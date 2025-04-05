@@ -267,3 +267,4 @@
 /Users/spencerhilton/Downloads/Archive/backend/FakeAmazon.API/obj/Release/net8.0/FakeAmazon.API.pdb
 /Users/spencerhilton/Downloads/Archive/backend/FakeAmazon.API/obj/Release/net8.0/FakeAmazon.API.genruntimeconfig.cache
 /Users/spencerhilton/Downloads/Archive/backend/FakeAmazon.API/obj/Release/net8.0/ref/FakeAmazon.API.dll
+/Users/spencerhilton/Downloads/Archive/backend/FakeAmazon.API/obj/Release/net8.0/FakeAmazon.API.sourcelink.json

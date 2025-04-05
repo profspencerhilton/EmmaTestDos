@@ -19,7 +19,7 @@ builder.Services.AddCors(options =>
     options.AddPolicy("AllowFrontend",
         policy =>
         {
-            policy.WithOrigins("http://localhost:3001", "https://victorious-wave-0c3f3451e.6.azurestaticapps.net")
+            policy.WithOrigins("http://localhost:3001", "https://black-water-0acff2f1e.6.azurestaticapps.net")
                 .AllowCredentials()
                 .AllowAnyHeader()
                 .AllowAnyMethod();
